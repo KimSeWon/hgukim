@@ -12,3 +12,10 @@ int main(){
 	sub4();
 	return 0;
 }
+
+void sub4(){
+	printf("Country Roads~, take me home~\n
+		To the place~ I belong~\n
+		West Virginia~, mountain mama\n
+		Take me home~, country roads~\n");
+}
